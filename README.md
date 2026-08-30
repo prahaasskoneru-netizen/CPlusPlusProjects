@@ -12,5 +12,5 @@ projects to do in c++
   5. If there are any 'merge conflicts', usually the fixes are 'git rebase', or 'git origin main' then commit and push again
   6. Always make sure your local machine is updated with Github with 'git origin main'
 
-Cheatsheet of common syntax
+#Cheatsheet of common syntax
   1. **return_type** **function_name**(parameter**type**1 param 1 parameter_type2 param 2) {//Function body / code goes here }
